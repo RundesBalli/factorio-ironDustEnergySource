@@ -1,10 +1,12 @@
-# factorio-ironDustEnergySource
-:rocket: A mod that turns leftover iron ore into burnable iron dust.
+# :rocket: factorio-ironDustEnergySource
+<p align="center"><img src="/images/1-machine.png" alt="IronDust"></p>  
+<p align="center">A mod that turns leftover iron ore into burnable iron dust.</p>
 
 <hr>
 
 ## Screenshots
-follows...
+![Fuel](/images/3-burnable.png)  
+![Recipe](/images/2-recipe.png)
 
 <hr>
 
