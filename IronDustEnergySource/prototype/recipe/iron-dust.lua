@@ -6,7 +6,7 @@ data:extend(
     enabled = false,
     category = "crafting-with-fluid",
     ingredients = {
-        { type = "item", name = "iron-ore", amount = 5 }
+      { type = "item", name = "iron-ore", amount = 5 }
     },
     results = {
       { type = "item", name = "iron-dust", amount = 1 },

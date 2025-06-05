@@ -1,3 +1,5 @@
 require("prototype.item.iron-dust")
+require("prototype.item.iron-briquette")
 require("prototype.recipe.iron-dust")
+require("prototype.recipe.iron-briquette")
 require("prototype.technology")
