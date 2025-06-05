@@ -5,8 +5,9 @@
 <hr>
 
 ## Screenshots
-![Dust](/images/2-dust.png)  
-![Briquette](/images/3-briquette.png)
+<p align="center"><img src="/images/2-dust.png" alt="IronDust"></p>
+
+<p align="center"><img src="/images/3-briquette.png" alt="IronBriquette"></p>  
 
 <hr>
 
@@ -19,9 +20,9 @@ I always have too much iron, and I wanted to use it as an energy source. That's 
 ### Iron dust
 - 1 blue belt iron ore (45 per second)
 - 12 "assembling machine 2" with 2 "speed module 3" each
+
 (will produce 9 iron dust per second)
 
 ### Iron briquette
-5 of the iron dust arrays above will feed:
-- 6 "assembling machine 2" with 2 "speed module 3" each
+5 of the iron dust arrays above will feed 6 "assembling machine 2" with 2 "speed module 3" each.  
 (will produce 0.9 iron briquettes per second)
